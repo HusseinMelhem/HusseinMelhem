@@ -91,34 +91,10 @@
 
 ---
 
-## 📊 Developer Stats
+## 🧠 Reading
 
-<!-- GitHub (reliable) -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HusseinMelhem&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMelhem&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<!-- LeetCode (reliable if username is correct) -->
-<p align="center">
-  <!-- Replace YOUR_LEETCODE_USERNAME -->
-  <img height="170" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0" />
-</p>
-
-<!-- AI / ML vibe: small but clean badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-LLM%20%7C%20Automation%20%7C%20Agents-7a3cff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-OCR%20%7C%20Document%20Intelligence-00c2ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-KYC%2FAML%20Risk%20Flagging-1f9d55?style=for-the-badge" />
-</p>
-
----
-
-## 🧠 Activity Graph (looks insane on dark mode)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HusseinMelhem&theme=tokyo-night&hide_border=true" />
-</p>
+- **Machine Learning & AI could transform business**  
+  https://www.forbes.com/sites/allbusiness/2018/10/20/machine-learning-artificial-intelligence-could-transform-business/
 
 ---
 
@@ -134,3 +110,4 @@
 
 - 📧 **Hussien.melhem81@gmail.com**
 - 🧑‍💻 **github.com/HusseinMelhem**
+
