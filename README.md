@@ -10,7 +10,7 @@
 <!-- Quick badges -->
 <p align="center">
   <a href="mailto:Hussien.melhem81@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hussien.melhem81%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Email-Hussien.melhem81%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white](https://magai.co/wp-content/uploads/2025/01/magai-featured-photo-genai-vs-machine-learning-scaled.jpg)" />
   </a>
   <a href="https://github.com/HusseinMelhem">
     <img src="https://img.shields.io/badge/GitHub-HusseinMelhem-black?style=for-the-badge&logo=github" />
