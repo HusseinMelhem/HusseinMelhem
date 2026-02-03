@@ -26,6 +26,11 @@
   -->
 </p>
 
+<!-- AI image (requested) -->
+<p align="center">
+  <img src="https://imageio.forbes.com/blogs-images/allbusiness/files/2018/10/machine-learning-1200x808.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Machine Learning" width="900" />
+</p>
+
 ---
 
 ## 👋 About Me
@@ -88,21 +93,6 @@
 
 - 🤖 **AI-assisted Automation**  
   Integrated agentic workflows to reduce manual operations and improve reliability.
-
----
-
-## 🧠 Reading
-
-- **Machine Learning & AI could transform business**  
-  https://www.forbes.com/sites/allbusiness/2018/10/20/machine-learning-artificial-intelligence-could-transform-business/
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HusseinMelhem/HusseinMelhem/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
