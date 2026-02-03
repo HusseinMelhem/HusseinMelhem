@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/GitHub-HusseinMelhem-black?style=for-the-badge&logo=github" />
   </a>
  
-  <a href="[https://www.kaggle.com/YOUR_KAGGLE_USERNAME](https://www.kaggle.com/hussienmelhem)">
-    <img src="https://img.shields.io/badge/Kaggle-YOUR_KAGGLE_USERNAME-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <a href="[https://www.kaggle.com/hussienmelhem](https://www.kaggle.com/hussienmelhem)">
+    <img src="https://img.shields.io/badge/Kaggle-hussienmelhem-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/husseinmelhem/)">
+  <a href="[https://www.linkedin.com/in/husseinmelhem](https://www.linkedin.com/in/husseinmelhem/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   -->
