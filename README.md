@@ -1,9 +1,13 @@
-<!-- Typing intro -->
+<!-- =========================
+     PROFILE README (FULL)
+     ========================= -->
+
+<!-- Typing intro (no banner) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=900&lines=I'm+Hussein+Melhem;Backend+%26+AI+Engineer;OCR+Pipelines+%7C+KYC%2FAML+Systems;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+PostgreSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=950&lines=I'm+Hussein+Melhem;Backend+%26+AI+Engineer;OCR+Pipelines+%7C+KYC%2FAML+Systems;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+PostgreSQL" />
 </p>
 
-<!-- Badges -->
+<!-- Quick badges -->
 <p align="center">
   <a href="mailto:Hussien.melhem81@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hussien.melhem81%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -11,6 +15,15 @@
   <a href="https://github.com/HusseinMelhem">
     <img src="https://img.shields.io/badge/GitHub-HusseinMelhem-black?style=for-the-badge&logo=github" />
   </a>
+  <!-- Optional: add your Kaggle + LinkedIn links -->
+  <!--
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+    <img src="https://img.shields.io/badge/Kaggle-YOUR_KAGGLE_USERNAME-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  -->
 </p>
 
 ---
@@ -59,23 +72,42 @@
 
 ---
 
+## 🏆 Highlights
+
+- 🧠 **Kaggle Practitioner**  
+  Participated in ML competitions involving regression, feature engineering, and model evaluation.
+
+- 🪪 **OCR & Document Intelligence**  
+  Built end-to-end ID extraction pipelines: image preprocessing → OCR → structured data → validation.
+
+- 🔐 **KYC / AML Systems**  
+  Designed backend logic to flag suspicious transfers using rules, thresholds, and audit trails.
+
+- ⚙️ **Backend Engineering**  
+  Production APIs using **Java + Spring Boot** and **FastAPI**, backed by PostgreSQL.
+
+- 🤖 **AI-assisted Automation**  
+  Integrated agentic workflows to reduce manual operations and improve reliability.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HusseinMelhem&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMelhem&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HusseinMelhem&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMelhem&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMelhem&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMelhem&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Highlights
+## 🏅 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HusseinMelhem&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HusseinMelhem&no-frame=true&row=1&column=7&theme=onedark" />
 </p>
 
 ---
@@ -83,7 +115,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HusseinMelhem/HusseinMelhem/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/HusseinMelhem/HusseinMelhem/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
