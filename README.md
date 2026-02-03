@@ -91,23 +91,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Stats
 
+<!-- GitHub (reliable) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HusseinMelhem&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMelhem&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HusseinMelhem&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMelhem&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+<!-- LeetCode (reliable if username is correct) -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMelhem&layout=compact&hide_border=true&theme=tokyonight" />
+  <!-- Replace YOUR_LEETCODE_USERNAME -->
+  <img height="170" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0" />
+</p>
+
+<!-- AI / ML vibe: small but clean badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-LLM%20%7C%20Automation%20%7C%20Agents-7a3cff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-OCR%20%7C%20Document%20Intelligence-00c2ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-KYC%2FAML%20Risk%20Flagging-1f9d55?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏅 Trophies
+## 🧠 Activity Graph (looks insane on dark mode)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HusseinMelhem&no-frame=true&row=1&column=7&theme=onedark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HusseinMelhem&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
